@@ -169,7 +169,7 @@ A blockchain-powered academic certificate verification platform designed to prov
 
 An AI-powered application that uses Machine Learning and Natural Language Processing to identify spam messages.
 
-<a href="https://github.com/gitsuleman/SpamShield-AI">
+<a href="https://spamshield-aii.streamlit.app/">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-228B45?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -225,7 +225,7 @@ A MERN-stack application designed to organize, manage, and track job application
 
 A responsive personal portfolio showcasing my technical skills, projects, certifications, and development journey.
 
-<a href="https://gitsuleman.github.io/Portfolio/">
+<a href="https://gitsulaiman.github.io/Portfolio/">
 <img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
