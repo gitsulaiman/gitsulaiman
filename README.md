@@ -141,6 +141,7 @@ Improving Development Skills
 **Blockchain Academic Certificate Verification**
 
 A blockchain-powered academic certificate verification platform designed to provide secure, transparent, and tamper-resistant certificate authentication.
+
 <a href="https://blockcert-one.vercel.app/">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-228B45?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
