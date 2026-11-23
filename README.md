@@ -197,6 +197,10 @@ An AI-powered application that uses Machine Learning and Natural Language Proces
 
 A MERN-stack application designed to organize, manage, and track job applications through a centralized dashboard.
 
+<a href="https://job-tracker-zeta-lac.vercel.app/">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-228B45?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
 **Key Features**
