@@ -1,160 +1,199 @@
 <div align="center">
 
-<!-- Animated Header -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sulaiman%20Warsi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
-
-<!-- Typing Animation -->
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sulaiman+Warsi+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Smart+%26+Scalable+Solutions+%F0%9F%9A%80;Always+Learning+Something+New+%E2%9C%A8" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020024,50:090979,100:00D4FF&text=SULAIMAN%20WARSI&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descAlignY=58&descSize=16"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=gitsulaiman&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Reality+%F0%9F%9A%80;Full+Stack+Web+Developer+%F0%9F%92%BB;Artificial+Intelligence+Enthusiast+%F0%9F%A4%96;Machine+Learning+Explorer+%F0%9F%A7%A0;Always+Learning.+Always+Building.+%E2%9C%A8" alt="Typing Animation"/>
+
+<br/><br/>
+
+<a href="https://github.com/gitsulaiman">
+<img src="https://komarev.com/ghpvc/?username=gitsulaiman&style=for-the-badge&color=0077ff&label=PROFILE+VIEWS"/>
+</a>
+
+<a href="https://github.com/gitsulaiman?tab=followers">
+<img src="https://img.shields.io/github/followers/gitsulaiman?style=for-the-badge&color=0077ff&label=FOLLOWERS"/>
+</a>
+
+<a href="https://github.com/gitsulaiman?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-00D4FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ About Me
 
-Hello! I'm **Sulaiman Warsi**, a Computer Science and Engineering student and aspiring Software Developer passionate about building modern web applications and intelligent solutions.
+```yaml
+name: Sulaiman Warsi
+username: gitsulaiman
+role: Software Developer
+education: Computer Science & Engineering
 
-- 🎓 B.Tech in Computer Science & Engineering
-- 💻 Interested in Full Stack Development and AI/ML Engineering
-- 🤖 Exploring Artificial Intelligence, Machine Learning and NLP
-- 🌱 Continuously learning new technologies and improving my skills
-- 🚀 Building real-world projects to solve practical problems
-- 🎯 Aspiring Software Engineer and AI Engineer
+interests:
+  - Full Stack Development
+  - Artificial Intelligence
+  - Machine Learning
+  - Natural Language Processing
+  - Problem Solving
 
-**My goal:** To transform innovative ideas into efficient, scalable, and intelligent applications.
+currently_focusing:
+  - Building real-world applications
+  - Exploring AI/ML technologies
+  - Improving software development skills
+
+mindset: "Learn | Build | Innovate | Repeat"
+```
+
+I'm a passionate developer interested in creating modern web applications and intelligent software solutions.
+
+I enjoy exploring new technologies, solving real-world problems, and transforming creative ideas into functional projects.
+
+- 💻 Developing responsive and scalable web applications.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 🌐 Working with modern frontend and backend technologies.
+- 🔐 Interested in Blockchain and emerging technologies.
+- 🚀 Constantly learning and building something new.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Arsenal
+
+<div align="center">
 
 ### Programming Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" />
 
 ### Frontend Development
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap&theme=dark" />
 
-### Backend Development & Database
+### Backend & Database
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
 
 ### AI / Machine Learning
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
-**Technologies:** Machine Learning, NLP, Scikit-learn, Pandas, NumPy, TF-IDF, Streamlit.
+<br/>
 
-### Tools & Platforms
+<img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=scikitlearn&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-00A67D?style=for-the-badge"/>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
-</p>
+### Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark"/>
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. BlockCert – Blockchain Academic Certificate Verification
+<div align="center">
 
-A blockchain-based academic certificate verification system designed to provide secure, transparent, and tamper-resistant certificate authentication.
+<a href="https://github.com/gitsulaiman/SpamShield-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gitsulaiman&repo=SpamShield-AI&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
 
-**Key Features:**
+</div>
+
+### 🔐 01. BlockCert – Blockchain Academic Verification
+
+A blockchain-powered academic certificate verification platform designed to ensure certificate authenticity, transparency, and protection against unauthorized modifications.
+
+**Highlights:**
 - Blockchain-based certificate issuance.
-- Secure certificate verification.
 - QR code-based verification.
-- Admin authentication.
-- Prevention of unauthorized certificate modification.
+- Secure administrator authentication.
+- Tamper-resistant certificate records.
 
-**Technologies:** MERN Stack, Solidity, Ethereum, Web3.js, MongoDB.
+**Tech:** MERN Stack | Solidity | Ethereum | Web3.js | MongoDB
 
----
+### 🤖 02. SpamShield AI – Intelligent Spam Detection
 
-### 2. SpamShield AI – Intelligent Spam Detection System
+An AI-powered application that uses Machine Learning and Natural Language Processing to identify spam messages.
 
-An AI-powered spam detection application that identifies spam messages using Machine Learning and Natural Language Processing.
-
-**Key Features:**
-- Automated spam message classification.
+**Highlights:**
+- Automated spam classification.
 - TF-IDF text vectorization.
 - Multinomial Naive Bayes algorithm.
 - Interactive Streamlit dashboard.
-- Spam analytics and visualization.
+- Analytics and visualization.
 
-**Technologies:** Python, Machine Learning, NLP, Scikit-learn, Pandas, Streamlit.
+**Tech:** Python | Scikit-learn | NLP | Pandas | Streamlit
 
-🔗 [View Project](https://github.com/gitsuleman/SpamShield-AI)
+<a href="https://github.com/gitsulaiman/SpamShield-AI">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0077FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+### 💼 03. Job Application Tracker
 
-### 3. Job Application Tracker
+A full-stack application for managing and tracking job applications through a centralized dashboard.
 
-A full-stack web application designed to organize, manage, and track job applications efficiently.
-
-**Key Features:**
-- Add, update and delete job applications.
-- Search and filter functionality.
+**Highlights:**
+- Complete CRUD functionality.
+- Search and filter applications.
 - Application summary dashboard.
 - REST API integration.
 - MongoDB Atlas database.
 
-**Technologies:** React.js, Node.js, Express.js, MongoDB.
+**Tech:** React.js | Node.js | Express.js | MongoDB
+
+### 🌐 04. Personal Portfolio
+
+A personal portfolio website showcasing my technical skills, projects, certifications, and development journey.
+
+<a href="https://gitsuleman.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+</a>
 
 ---
 
-### 4. Personal Portfolio Website
-
-A responsive personal portfolio showcasing my technical skills, projects, certifications, and development journey.
-
-**Technologies:** HTML, CSS, JavaScript.
-
-🔗 [Visit Portfolio](https://gitsuleman.github.io/Portfolio/)
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gitsulaiman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gitsulaiman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitsulaiman&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitsulaiman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=gitsulaiman&theme=tokyonight&hide_border=true" width="65%"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=gitsulaiman&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gitsulaiman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gitsulaiman&bg_color=0D1117&color=00D4FF&line=0077FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gitsulaiman&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -163,11 +202,11 @@ A responsive personal portfolio showcasing my technical skills, projects, certif
 </a>
 
 <a href="https://www.linkedin.com/in/sulaimwan-warsi/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:er.sulaimank.warsi@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://gitsuleman.github.io/Portfolio/">
@@ -180,12 +219,16 @@ A responsive personal portfolio showcasing my technical skills, projects, certif
 
 <div align="center">
 
-### 💡 Developer Mindset
+### 💭 A Developer's Philosophy
 
-*"Code. Learn. Build. Innovate. Repeat."*
+**"Great things are built one line of code at a time."**
 
-**Thanks for visiting my profile! Let's connect and build something amazing.**
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1500&color=00D4FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+something+amazing+%F0%9F%9A%80" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00D4FF&height=120&section=footer"/>
 
 </div>
