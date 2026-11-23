@@ -269,10 +269,6 @@ A responsive personal portfolio showcasing my technical skills, projects, certif
 
 <div align="center">
 
-<a href="https://github.com/gitsulaiman">
-<img src="https://img.shields.io/badge/GitHub-171A1C?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/sulaimwan-warsi/">
 <img src="https://img.shields.io/badge/LinkedIn-14532D?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
