@@ -236,7 +236,10 @@ A responsive personal portfolio showcasing my technical skills, projects, certif
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=gitsulaiman&hide_border=true&background=171A1C&ring=228B45&fire=DC143C&currStreakLabel=228B45&sideLabels=F5F5F5&dates=AAAAAA"/>
+<img
+  width="75%"
+  src="https://streak-stats.demolab.com?user=gitsulaiman&hide_border=true&background=171A1C&ring=228B45&fire=DC143C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=228B45&sideLabels=F5F5F5&dates=AAAAAA"
+/>
 
 </div>
 
